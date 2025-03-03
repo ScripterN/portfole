@@ -4,7 +4,9 @@ title: Another cool project
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: >-
+  This is my poetry writing pages, where I do write them with my feelings and
+  thinking. Please check it out :) [cuz uh ya know it takes time]
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
